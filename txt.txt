@@ -1,52 +1,52 @@
-The sun is a star.
-Mercury is the closest planet to the sun.
-Venus is the second planet from the sun.
-Earth is the third planet from the sun.
-Mars is the fourth planet from the sun.
-Jupiter is the largest planet in the solar system.
-Saturn is a planet with large rings.
-Uranus is an ice giant.
-Neptune is the farthest planet from the sun.
-The moon is a natural satellite of the Earth.
-Water is a molecule composed of hydrogen and oxygen.
-Oxygen is a gas necessary for human life.
-Nitrogen is the most abundant gas in the atmosphere.
-Carbon dioxide is a gas used by plants for photosynthesis.
-Iron is a metal used in construction.
-Gold is a precious metal.
-Copper is a conductor of electricity.
-Silver is a highly reflective metal.
-The Pacific Ocean is the largest ocean on Earth.
-The Atlantic Ocean is the second largest ocean on Earth.
-The Nile is the longest river in the world.
-Mount Everest is the highest mountain on Earth.
-Paris is the capital of France.
-London is the capital of the United Kingdom.
-Tokyo is the capital of Japan.
-Washington is the capital of the United States.
-Berlin is the capital of Germany.
-Rome is the capital of Italy.
-Cairo is the capital of Egypt.
-Canberra is the capital of Australia.
-Ottawa is the capital of Canada.
-Brasilia is the capital of Brazil.
-A square is a shape with four equal sides.
-A triangle is a shape with three sides.
-A circle is a shape with no corners.
-An octagon is a shape with eight sides.
-A decade is a period of ten years.
-A century is a period of one hundred years.
-A millennium is a period of one thousand years.
-Biology is the study of living organisms.
-Physics is the study of matter and energy.
-Chemistry is the study of chemical substances.
-Geology is the study of the Earth.
-Astronomy is the study of celestial objects.
-An apple is a fruit.
-A carrot is a vegetable.
-Milk is a source of calcium.
-Honey is a natural sweetener produced by bees.
-The heart is an organ that pumps blood.
-The brain is the center of the nervous system.
-Lungs are organs used for breathing.
-Skin is the largest organ of the human body.
+the sun is a star.
+mercury is the closest planet to the sun.
+venus is the second planet from the sun.
+earth is the third planet from the sun.
+mars is the fourth planet from the sun.
+jupiter is the largest planet in the solar system.
+saturn is a planet with large rings.
+uranus is an ice giant.
+neptune is the farthest planet from the sun.
+the moon is a natural satellite of the earth.
+water is a molecule composed of hydrogen and oxygen.
+oxygen is a gas necessary for human life.
+nitrogen is the most abundant gas in the atmosphere.
+carbon dioxide is a gas used by plants for photosynthesis.
+iron is a metal used in construction.
+gold is a precious metal.
+copper is a conductor of electricity.
+silver is a highly reflective metal.
+the pacific ocean is the largest ocean on earth.
+the atlantic ocean is the second largest ocean on earth.
+the nile is the longest river in the world.
+mount everest is the highest mountain on earth.
+paris is the capital of france.
+london is the capital of the united kingdom.
+tokyo is the capital of japan.
+washington is the capital of the united states.
+berlin is the capital of germany.
+rome is the capital of italy.
+cairo is the capital of egypt.
+canberra is the capital of australia.
+ottawa is the capital of canada.
+brasilia is the capital of brazil.
+a square is a shape with four equal sides.
+a triangle is a shape with three sides.
+a circle is a shape with no corners.
+an octagon is a shape with eight sides.
+a decade is a period of ten years.
+a century is a period of one hundred years.
+a millennium is a period of one thousand years.
+biology is the study of living organisms.
+physics is the study of matter and energy.
+chemistry is the study of chemical substances.
+geology is the study of the earth.
+astronomy is the study of celestial objects.
+an apple is a fruit.
+a carrot is a vegetable.
+milk is a source of calcium.
+honey is a natural sweetener produced by bees.
+the heart is an organ that pumps blood.
+the brain is the center of the nervous system.
+lungs are organs used for breathing.
+skin is the largest organ of the human body.
